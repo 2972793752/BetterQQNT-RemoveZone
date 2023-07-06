@@ -1,7 +1,7 @@
 # BetterQQNT-RemoveZone
 BetterQQNT-RemoveZone
 
-## 删除 QQNT 版本 QQ 空间入口
+# 删除 QQNT 版本 QQ 空间入口
 
 **由于 QQ 不提供侧边栏的个性化定制，于是就有了这个插件。**
 
